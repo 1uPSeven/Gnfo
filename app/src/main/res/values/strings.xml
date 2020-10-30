@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gnfo</string>
+    <string name="go">GO!</string>
+    <string name="bienvenido_a_gnfo">¡Bienvenido a Gnfo!</string>
+    <string name="seleccione_ciudad">Seleccione Ciudad:</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="textview">TextView</string>
+    <string name="mostrar_en_el_mapa">Mostrar en el Mapa</string>
+</resources>
