@@ -6,4 +6,5 @@
     <string name="title_activity_maps">Map</string>
     <string name="textview">TextView</string>
     <string name="mostrar_en_el_mapa">Mostrar en el Mapa</string>
+    <string name="textview">TextView</string>
 </resources>
